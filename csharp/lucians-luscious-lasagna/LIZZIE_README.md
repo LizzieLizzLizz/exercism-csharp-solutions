@@ -1,8 +1,8 @@
 # Meu Diário de Aprendizado: Lasagna
 
-**Data:** 15/01/2026
-**Conceitos Praticados:** Métodos básicos, retorno de valores, constantes.
-**Dificuldade Percebida:** 🟢 Fácil (mas ótimo para fixar a sintaxe!)
+**Data:** 15/01/2026<br>
+**Conceitos Praticados:** Métodos básicos, retorno de valores, constantes.<br>
+**Dificuldade Percebida:** 🟢 Fácil (mas ótimo para fixar a sintaxe!)<br>
 **Link para o Exercício:** [Lasagna no Exercism](https://exercism.org/tracks/csharp/exercises/lasagna)
 
 ## 🧠 O Que Aprendi Neste Exercício
