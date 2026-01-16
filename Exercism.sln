@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{B41BF331-FCCB-2ADF-CDB6-767964B34647}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hello-world", "hello-world", "{49FEA51A-76C9-2C20-3765-D809B4D40A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "csharp\hello-world\HelloWorld.csproj", "{D281681B-D083-1BD3-A09A-E9B30424FBA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lucians-luscious-lasagna", "lucians-luscious-lasagna", "{9DA95F3D-AE82-873C-8C76-9A689A5A3475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "csharp\lucians-luscious-lasagna\LuciansLusciousLasagna.csproj", "{5DC7E939-F4CB-E9F7-155A-541639C6A20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D281681B-D083-1BD3-A09A-E9B30424FBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D281681B-D083-1BD3-A09A-E9B30424FBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D281681B-D083-1BD3-A09A-E9B30424FBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D281681B-D083-1BD3-A09A-E9B30424FBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC7E939-F4CB-E9F7-155A-541639C6A20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC7E939-F4CB-E9F7-155A-541639C6A20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC7E939-F4CB-E9F7-155A-541639C6A20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC7E939-F4CB-E9F7-155A-541639C6A20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49FEA51A-76C9-2C20-3765-D809B4D40A4D} = {B41BF331-FCCB-2ADF-CDB6-767964B34647}
+		{D281681B-D083-1BD3-A09A-E9B30424FBA6} = {49FEA51A-76C9-2C20-3765-D809B4D40A4D}
+		{9DA95F3D-AE82-873C-8C76-9A689A5A3475} = {B41BF331-FCCB-2ADF-CDB6-767964B34647}
+		{5DC7E939-F4CB-E9F7-155A-541639C6A20A} = {9DA95F3D-AE82-873C-8C76-9A689A5A3475}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0729312A-8AC8-4BF2-BC40-2E913269B2C6}
+	EndGlobalSection
+EndGlobal
